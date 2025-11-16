@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Asmaul Shahana 👋</h1>
 <img align="right" width="250" alt="girlll" src="Animation - 1723689510603 (1).gif">
-<h3 align="left">I am a recent graduate in Computer Science and Engineering, currently pursuing my Master's degree at Jahangirnagar University, Bangladesh</h3>
+<h3 align="left">I have recently comepleted my Bachelor's and Master's degree from Jahangirnagar University, Bangladesh. I am passinate about Web development, problem solving, Natural Language Processing and Machine Learning.</h3>
 
 <h3 align="left">Links:</h3>
 <p align="left">
